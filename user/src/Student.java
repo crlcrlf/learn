@@ -42,4 +42,5 @@ public class Student {
     }
      public void goToHome(){
         System.out.println(("我想要回家"));
+     }
 }
