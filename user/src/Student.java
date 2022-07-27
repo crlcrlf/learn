@@ -8,11 +8,11 @@ public class Student {
      * 就读学校成绩
      */
     public String studentNo;
-    public String STUDENTname;
-    public String studentage;
-    public String studentmale;
-    public String studentschool;
-    public int getstudentscore;
+    public String studentName;
+    public String studentAge;
+    public String studentMale;
+    public String StudentSchool;
+    public int getStudentScore;
 
 
     /**
