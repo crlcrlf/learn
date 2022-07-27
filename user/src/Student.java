@@ -40,4 +40,6 @@ public class Student {
     public void eatDinner(){
         System.out.println(("我想要吃饭"));
     }
+     public void goToHome(){
+        System.out.println(("我想要回家"));
 }
